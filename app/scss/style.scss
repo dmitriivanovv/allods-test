@@ -11,7 +11,7 @@
   background-image: url(../images/dist/section_0_bg.jpg);
   background-position: center top;
   background-repeat: no-repeat;
-  min-height: 890px;
+  min-height: 892px;
 
   & .container {
     display: grid;
@@ -54,12 +54,12 @@
 .section-1 {
   min-height: 1060px;
   background-image: url(../images/dist/section_1_bg.png);
-  background-position: center 15px;
+  background-position: center 13px;
   background-repeat: no-repeat;
 
   &_content {
-    margin-left: 638px;
-    padding-top: 62px;
+    margin-left: 639px;
+    padding-top: 61px;
   }
 
   &_title {
@@ -130,8 +130,11 @@
   }
 
   &-count {
-    margin-left: 7px;
+    margin-left: 8px;
     text-align: center;
+  }
+  &-free {
+    margin-left: 22px;
   }
 }
 
